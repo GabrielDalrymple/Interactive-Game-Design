@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Exhibit Base
+    uniqueID: 715791889
+    locked: 0
+  - name: Tank Base
+    uniqueID: 1588285081
+    locked: 0
+  - name: Tank Ground
+    uniqueID: 3234673421
+    locked: 0
+  - name: Exhibit Decor
+    uniqueID: 2126292929
+    locked: 0
+  - name: Fish
+    uniqueID: 497484571
+    locked: 0
+  - name: Tank Decor
+    uniqueID: 2802506237
+    locked: 0
+  - name: Tank Line
+    uniqueID: 1404315801
+    locked: 0
+  - name: Buttons
+    uniqueID: 1904458429
+    locked: 0
